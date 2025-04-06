@@ -1,0 +1,22 @@
+Veriyi sınıflandırmak bizim için çok fayda sağlar
+Mesela uçaklar savaş uçakları insansız uçaklar
+Tıpkı gerçek dünyadaki gibi bizimde veriyi yönetirken
+sınıflandırmamız gerekir.
+Programlama dillerindeki temel amaç veriyi yönetmektir
+OOP ile veriyi daha iyi yönetiriz.
+
+
+Nesne(Object)
+Etrafımızda gördüğümüz herşey birer nesnedir
+Nesnelerin özellikleri olabilir ve bazı fonksiyonları
+aksiyonlarıda olabilir
+
+Sınıf(Class)
+Bu nesneleri belirleyen plandır ahngi özelliklere
+sahip nesneler ve hangi davranışları sergileyeceklerini
+belirler
+Nesne sınıfın bir örneğidir
+Nesnenin ne yaptığı ne gibi özelliğinin olduğunu veren planlarıdır
+
+Herbir nesne için yeni nesne oluşturmuyoruz
+bunun yerine sınıfı çağırarak yeni nesne oluşturuyoruz
